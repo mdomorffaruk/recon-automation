@@ -169,4 +169,4 @@ The goal is to automate repetitive reconnaissance tasks so more time can be spen
 This tool is intended for **educational purposes and authorized security testing only**.
 
 Do not use this script against systems without proper authorization.
-```
+
