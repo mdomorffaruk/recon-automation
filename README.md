@@ -113,6 +113,14 @@ cd recon-automation
 
 ```
 
+Edit WORDLIST and FEROX_WORDLIST variable:
+
+```
+WORDLIST="${WORDLIST:-/home/billi/seclists/Discovery/DNS/subdomains-top1million-20000.txt}"
+FEROX_WORDLIST="${FEROX_WORDLIST:-/home/billi/seclists/Discovery/Web-Content/raft-small-files.txt}"
+
+```
+
 Make the script executable:
 
 ```
